@@ -1,0 +1,55 @@
+{
+    "name": "SensisAPI",
+    "description": "<p>Founded in 1985, Sensis Corporation is a global provider of air defense, air traffic control, airline and airport operations management, and data integration and distribution. The company serves a global client base and is actively involved in industry organizations and working groups worldwide, helping to address critical issues and develop innovative, real-world solutions.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/923_logo.jpg",
+    "tags": [
+        "australia",
+        "business",
+        "directories",
+        "have api",
+        "local"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sensisapi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SensisAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/923_logo.jpg",
+            "humanURL": "http:\/\/sensis.com.au\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sensisapi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.sensis.com.au\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sensis-corporation"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.sensis.com.au\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SensisAPI"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sensis.com.au\/"
+        }
+    ]
+}
